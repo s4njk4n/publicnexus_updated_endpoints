@@ -15,7 +15,7 @@ if expecting less load).
 
 _$100/month = 5M requests/month via Ankr._
 
-The generous limits above mean that developers working with an active commercial product may be better off using the Ankr paid service.
+The generous limit shown above mean that developers working with an active commercial product may be better off using the Ankr paid service.
 
 A load balancer covering all public RPC's doesn't seem to be required.
 
