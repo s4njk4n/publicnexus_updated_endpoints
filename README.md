@@ -29,7 +29,6 @@ As mentioned above, the content in this repo is provided more as a record in cas
 
 We were in the process of actively onboarding a new team member to manage enterprise RPC deployments (currently employed as a senior solutions architect by a large US multinational tech provider and
 who's day-to-day job at present involves enterprise deployments with Cloudflare, Kubernetes, load balancers, redundant ingress etc and who's clients include the largest bank in our country, several 
-government departments and multi-billion dollar corporates in Asia Pacific. Even better is that he's already familiar with the XDC ecosystem and holds XDC ;)
+government departments and multi-billion dollar corporates in Asia Pacific. Even better is that he's already familiar with the XDC ecosystem + holds XDC ;)
 
-We will have further discussions with other developers in the ecosystem before making a final decision on what to do with our actively running servers, however it is looking very much like we will discontinue the service and pause
-further development as it isn't really required to add ourselves as another service provider in the space.
+We will have further discussions with other developers in the ecosystem before making a final decision on what to do with our actively running servers, however it is looking very much like we will discontinue the service and pausefurther development as it isn't really required to add ourselves as another service provider in the space.
