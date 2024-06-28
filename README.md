@@ -8,7 +8,7 @@ This is based on the following as of today (29/06/2024):
 - If actually signing up for their "Freemium" service then this rate limit is increased to 30requests/min. This is also more than the average community member and basic developer would need for general transactions via their Web3 wallet.
 - Their Premium service offers a rate limit of 1500requests/sec at a cost (at present for Node API) of USD$0.02/1000requests.
 
-Let's assume that an XDC node providing an RPC is running on a VPS costing $100/month (arbitrary figure picked out of the air; there are better more expensive VPSs available and similarly the XDC client can also run on cheaper VPSs
+Let's assume that an XDC node providing an RPC is running on a VPS costing $100/month (arbitrary figure plucked out of the air; there are better more expensive VPSs available and similarly the XDC client can also run on cheaper VPSs
 if expecting less load).
 
 $100/month = 5M requests/month via Ankr.
