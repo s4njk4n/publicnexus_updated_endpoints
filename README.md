@@ -1,4 +1,6 @@
-This information is being posted for historical record / information sake only in case it comes in handy for a future developer who needs something similar for a project.
+_This information is being posted for historical record / information sake only in case it comes in handy for a future developer who needs something similar for a project._
+
+# Progress Update
 
 The initial intent of PublicNexus was to fill a perceived need by the general community and basic developers however on further discussions and examining the publicly available
 RPCs on the XDC Network, it has become apparent that this need has already been filled by Ankr (and so PublicNexus isn't really required).
@@ -11,7 +13,7 @@ This is based on the following as of today (29/06/2024):
 Let's assume that an XDC node providing an RPC is running on a VPS costing $100/month (arbitrary figure plucked out of the air; there are better more expensive VPSs available and similarly the XDC client can also run on cheaper VPSs
 if expecting less load).
 
-$100/month = 5M requests/month via Ankr.
+_$100/month = 5M requests/month via Ankr._
 
 The generous limits above mean that developers working with an active commercial product may be better off using the Ankr paid service.
 
