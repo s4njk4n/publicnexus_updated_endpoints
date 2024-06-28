@@ -19,7 +19,7 @@ The generous limit shown above means that developers working with an active comm
 
 A load balancer covering all public RPC's doesn't seem to be required.
 
-As one developer from a prominent project on the network indicated regarding how they operate:
+As one developer from a prominent project on the XDC network indicated in a public forum regarding how they operate:
 - Their project runs its own Archive node (as others don't need it)
 - For all Full node RPC requests they send them to Ankr
 
