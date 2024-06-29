@@ -39,7 +39,10 @@ a2enmod mod_proxy_wstunnel
 ```
 - The "Origin_Check" directory we used was located at /root/Origin_Check.
 - The "tmp" directory is literally the /tmp location to hold the temp file for calculations and the file lock to prevent concurrency of instances.
+- Repetitve execution is managed via entries in the root user' crontab
+
 ---
+
 Wishing everyone well in the ecosystem!
 
 - @s4njk4n
