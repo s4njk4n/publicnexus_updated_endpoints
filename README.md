@@ -1,7 +1,5 @@
 _This information is being posted for historical record information sake only in case it comes in handy for a future developer who needs something similar for a project. It only relates to our initial Alpha POC. Enterprise development work will remain private._
 
-**We had actually already onboarded a new team member to manage enterprise RPC deployments (currently employed as a senior solutions architect by a large US multinational tech provider and who's day-to-day job at present involves enterprise deployments with Cloudflare, Kubernetes, load balancers, redundant ingress etc and who's clients include the largest bank in our country, several government departments and multi-billion dollar corporates in Asia Pacific. Even better is that he's already familiar with the XDC ecosystem :) As of yesterday, our expected delivery date for a fully-redundant native-XDC Enterprise-grade service WAS 3 weeks.**
-
 We will have further discussions with other developers in the ecosystem before making a final decision on what to do with our actively running servers, however it is looking very much like we will discontinue the service and pause further development as it isn't really required to add ourselves as another service provider in the space.
 
 ## Progress Update
